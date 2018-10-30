@@ -1,3 +1,5 @@
 1st git repository in local directory
+2nd day edit and commit
+
 
 
